@@ -1,4 +1,4 @@
 Brackets-PreeCent
 =================
 
-Presentation Mode and More
+Presentation Mode and More.
